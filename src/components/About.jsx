@@ -135,7 +135,7 @@ export default function About() {
 
                   <span className="inline-flex items-center gap-1.5 bg-white/5 border border-white/10 text-[#9A9088] hover:text-[#FF9A3D] text-xs px-4 py-1.5 rounded-full transition-colors font-medium">
                     <MapPin className="w-3.5 h-3.5 text-[#FF9A3D]" />
-                    <span>Dehradun, India</span>
+                    <span>Noida, India</span>
                   </span>
 
                   <span className="inline-flex items-center gap-1.5 bg-white/5 border border-white/10 text-[#9A9088] hover:text-[#FF9A3D] text-xs px-4 py-1.5 rounded-full transition-colors font-medium">
