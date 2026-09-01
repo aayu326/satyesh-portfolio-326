@@ -176,7 +176,7 @@ export default function Contact() {
                   </div>
 
                   <span className="text-sm font-medium text-[#f2f2f0]">
-                    Dehradun, Uttarakhand, India
+                    Noida , Uttar Pradesh, India
                   </span>
                 </div>
 
