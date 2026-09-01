@@ -63,7 +63,7 @@ export default function About() {
                 </div>
 
                 <span className="font-mono text-[10px] text-[#FFC107] bg-[#FF5722]/20 px-2 py-0.5 rounded border border-[#FF5722]/30">
-                  Internships
+                 Freelancing
                 </span>
 
               </div>
