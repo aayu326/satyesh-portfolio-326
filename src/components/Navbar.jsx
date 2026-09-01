@@ -74,7 +74,7 @@ export default function Navbar() {
 
           {/* GitHub Link */}
           <a
-            href="https://github.com/Satyeshrana07"
+            href="https://github.com/aayu326"
             target="_blank"
             rel="noreferrer"
             className="text-[#f2f2f0] cursor-pointer flex items-center gap-1.5 border border-white/15 px-3 py-1.5 rounded-lg bg-white/05"
