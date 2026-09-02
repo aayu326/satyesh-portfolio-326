@@ -63,7 +63,7 @@ export default function About() {
                 </div>
 
                 <span className="font-mono text-[10px] text-[#FFC107] bg-[#FF5722]/20 px-2 py-0.5 rounded border border-[#FF5722]/30">
-                 Freelancing
+                  Freelancing
                 </span>
 
               </div>
@@ -83,46 +83,53 @@ export default function About() {
                 {/* Introduction */}
                 <p className="text-lg font-medium text-[#F5F1EC] leading-relaxed">
                   I'm <span className="text-[#FF9A3D]">Satyesh Kumar Singh</span>,
-                  a Computer Science Engineering student and web developer who
-                  enjoys building responsive, interactive and practical web
+                  a Computer Science Engineering graduate and web developer who
+                  enjoys building responsive, interactive, and practical web
                   applications.
                 </p>
 
                 {/* Education */}
                 <p className="text-[#9A9088] text-sm leading-relaxed">
-                  I am pursuing my B.Tech in Computer Science Engineering at
-                  <span className="text-[#F5F1EC]"> Tula's Institute </span>
-                  from 2022 to 2026. Alongside my academics, I have gained
+                  I have completed my{' '}
+                  <span className="text-[#F5F1EC]">
+                    B.Tech in Computer Science Engineering
+                  </span>{' '}
+                  from <span className="text-[#F5F1EC]">Tula's Institute</span>,
+                  Dehradun, from 2022 to 2026. Alongside my academics, I gained
                   practical experience through web development and full-stack
-                  development internships.
+                  development internships, working on real-world websites and
+                  applications.
                 </p>
 
-                {/* Experience & Skills */}
+                {/* Skills */}
                 <p className="text-[#9A9088] text-sm leading-relaxed">
-                  My technical interests include
+                  My technical interests include{' '}
                   <span className="text-[#F5F1EC]">
-                    {' '}HTML, CSS, JavaScript, React.js, PHP, Python, C++ and WordPress.
-                  </span>
-                  I enjoy creating clean user interfaces, responsive websites
-                  and applications that provide a smooth user experience.
+                    HTML, CSS, JavaScript, React.js, PHP, Python, C++, and WordPress.
+                  </span>{' '}
+                  I enjoy creating clean user interfaces, responsive websites,
+                  and applications that provide a smooth and engaging user
+                  experience.
                 </p>
 
                 {/* Projects */}
                 <p className="text-[#9A9088] text-sm leading-relaxed">
-                  I have worked on projects including my personal portfolio,
-                  the ACM Student Chapter website for Tula's Institute, and
-                  <span className="text-[#F5F1EC]"> QRIFY </span>
-                  — a restaurant solution that allows customers to scan a QR
-                  code, view menus and order food directly from their phones.
+                  I have worked on projects including my{' '}
+                  <span className="text-[#F5F1EC]">personal portfolio</span>,
+                  the <span className="text-[#F5F1EC]">ACM Student Chapter website</span>{' '}
+                  for Tula's Institute, and{' '}
+                  <span className="text-[#F5F1EC]">QRIFY</span> — a restaurant
+                  solution that allows customers to scan a QR code, view menus,
+                  and order food directly from their phones.
                 </p>
 
                 {/* Achievements */}
                 <p className="text-[#9A9088] text-sm leading-relaxed">
                   My work has also been recognised through achievements such as
-                  winning <span className="text-[#FF9A3D]">1st Place</span> in
-                  a technical event at IT UTSAV 3.0 and becoming
-                  <span className="text-[#FF9A3D]"> 1st Runner-Up </span>
-                  at Hackathon 2k25 for developing QRIFY.
+                  winning <span className="text-[#FF9A3D]">1st Place</span> in a
+                  technical event at IT UTSAV 3.0 and becoming{' '}
+                  <span className="text-[#FF9A3D]">1st Runner-Up</span> at
+                  Hackathon 2k25 for developing QRIFY.
                 </p>
 
               </div>
@@ -140,7 +147,7 @@ export default function About() {
 
                   <span className="inline-flex items-center gap-1.5 bg-white/5 border border-white/10 text-[#9A9088] hover:text-[#FF9A3D] text-xs px-4 py-1.5 rounded-full transition-colors font-medium">
                     <GraduationCap className="w-3.5 h-3.5 text-[#FF5722]" />
-                    <span>B.Tech CSE</span>
+                    <span>B.Tech CSE Graduate</span>
                   </span>
 
                   <span className="inline-flex items-center gap-1.5 bg-white/5 border border-white/10 text-[#9A9088] hover:text-[#FF9A3D] text-xs px-4 py-1.5 rounded-full transition-colors font-medium">
@@ -159,7 +166,7 @@ export default function About() {
                 <div className="flex flex-wrap items-center gap-3 pt-1">
 
                   <a
-                    href="https://github.com/"
+                    href="https://github.com/aayu326"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-[#F5F1EC] hover:text-[#FF9A3D] hover:border-[#FF9A3D] text-xs font-semibold px-4 py-2 rounded-xl transition-all"
@@ -179,7 +186,7 @@ export default function About() {
                   </a>
 
                   <a
-                    href="mailto:satyeshwork326@gmail.com"
+                    href="mailto:nsatyeshwork326@gmail.com"
                     className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-[#F5F1EC] hover:text-[#FF9A3D] hover:border-[#FF9A3D] text-xs font-semibold px-4 py-2 rounded-xl transition-all"
                   >
                     <Mail className="w-3.5 h-3.5" />
